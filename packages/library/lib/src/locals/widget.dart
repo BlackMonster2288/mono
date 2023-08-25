@@ -1,0 +1,1 @@
+export 'package:widget/widget.dart';
